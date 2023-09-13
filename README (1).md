@@ -3,6 +3,10 @@
 
 This is an online code editor which supports editing HTML,CSS and Javascript programming 
 
+# Screenshots 
+
+![Screenshot 2023-09-13 192304](https://github.com/saikarthik090/Online_code_editor/assets/143206816/eaf10793-3371-4a8b-b240-bbdfd131eefa)
+
 
 ## Demo
 
