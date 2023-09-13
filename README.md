@@ -6,7 +6,7 @@ This is an online code editor which supports editing HTML,CSS and Javascript pro
 
 Website link :
 
-https://github.com/saikarthik090/Online_code_editor.git
+https://saikarthik090.github.io/Online_code_editor/
 
 # Screenshot 
 
